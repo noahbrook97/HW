@@ -15,6 +15,6 @@ public class Driver{
             //this means you didn't have a number after the command!
             e.printStackTrace();
             System.out.println("Correct usage:\njava Drive n\n where n is a positive integer.");
-        } //aesfuhsegoiaueghoiagefoiygw
+        } 
     }
 }
